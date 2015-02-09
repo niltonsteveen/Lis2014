@@ -12,5 +12,5 @@ package co.pojo;
 public class Persona {
     private String nombre;
     private int edad;
-    private int cedula;
+   
 }
